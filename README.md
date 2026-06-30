@@ -7,8 +7,7 @@ June 30, 2026
 This repository contains my hands-on assignment for applying unsupervised learning techniques using Python and scikit-learn. The project includes data exploration, feature scaling, clustering with K-Means and DBSCAN, PCA visualizations, cluster evaluation, and a reflection on real-world applications and ethical considerations.
 
 ## Files
-- `m7_clustering.ipynb` — Main notebook with assignment
-- `m7_clustering.docx` - Reflection
+- `m7_clustering.ipynb` — Main notebook with assignment & reflection
 - `README.md` — This file 
 
 ## Submission
