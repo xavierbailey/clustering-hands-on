@@ -1,0 +1,11 @@
+Xavier Bailey
+AAI201
+June 30, 2026
+
+
+Module 7: Clustering Reflection
+K-Means & DBSCAN
+
+Clustering is everywhere in real-world systems, especially in apps that need to organize large amounts of unstructured data. A great example is modern image management apps like the iPhone photo library that automatically group similar photos together. Instead of relying on users to manually tag or sort thousands of pictures, the app can extract visual features like colors, textures, shapes, or deep-learning embeddings then cluster images that share similar patterns. This allows the app to automatically create collections like “dogs,” “sunsets,” “screenshots,” or “food,” making it way easier for people to find what they’re looking for. Clustering transforms a chaotic photo library into an organized, searchable experience without requiring any labels.
+
+While clustering is powerful, it also comes with important ethical and societal considerations. Because clustering is unsupervised, the groups it creates aren’t always obvious or transparent, and users usually have no idea how or why they were placed into a certain cluster. If the data contains sensitive attributes, even indirectly, the algorithm might unintentionally group people in ways that reflect or amplify bias. For example, clustering user photos or behavior could reveal private patterns that people didn’t intend to share, raising privacy concerns. And if companies use these clusters for decisions like targeted advertising, pricing, or risk assessment, certain groups could be treated unfairly without ever knowing why. Responsible use of clustering requires transparency, careful handling of personal data, and awareness of how algorithmic grouping can impact real people.
